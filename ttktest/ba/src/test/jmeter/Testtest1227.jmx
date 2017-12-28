@@ -72,7 +72,7 @@
             </collectionProp>
           </elementProp>
           <stringProp name="HTTPSampler.domain">${url}</stringProp>
-          <stringProp name="HTTPSampler.port">30188</stringProp>
+          <stringProp name="HTTPSampler.port">30288</stringProp>
           <stringProp name="HTTPSampler.protocol">${protocol}</stringProp>
           <stringProp name="HTTPSampler.contentEncoding">UTF-8</stringProp>
           <stringProp name="HTTPSampler.path">/v1/user/login</stringProp>
