@@ -1,4 +1,5 @@
 node (){
-stage 'Build and Test'
-sh 'mvn verify'
+stage ('Build and Test'){
+bat 'mvn verify'	
+}
 }
